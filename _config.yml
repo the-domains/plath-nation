@@ -1,0 +1,28 @@
+name: Plath nation
+favicon: null
+layout_spectrum: 0.18904495635069907
+typography_spectrum: 0.3523127983789891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8166403488721699
+  lightness: 0.47199911740608513
+  saturation: 0.807099792174995
+  rhythmicContrast: 0.24046226288191974
+purpose: []
