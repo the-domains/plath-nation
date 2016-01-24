@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Plath nation]]></title>
         <description><![CDATA[Plath nation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/plath-nation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 09:58:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 10:01:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/plath-nation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BLET]]></title>
+            <description><![CDATA[<article><h1>BLET</h1><p>Prašau nebedaryk to keisto filtro</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c17f71d89fb7345348eface0e03d79eed3cb2856.jpg"></article>]]></description>
+            <link>https://thegrid.ai/plath-nation/blet/index.html</link>
+            <guid isPermaLink="false">2769e0e6-ad75-4c22-9768-1ecfa6e41c8d</guid>
+            <pubDate>Sun, 24 Jan 2016 10:01:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/542de9b8-96a3-4d2d-9edc-66417c76034f.jpg">]]></description>
-            <link>undefinedbad53e95-ef46-48b0-8f4d-0e7564512754/index.html</link>
+            <link>https://thegrid.ai/plath-nation/bad53e95-ef46-48b0-8f4d-0e7564512754/index.html</link>
             <guid isPermaLink="false">bad53e95-ef46-48b0-8f4d-0e7564512754</guid>
             <pubDate>Sun, 24 Jan 2016 09:58:28 GMT</pubDate>
         </item>
